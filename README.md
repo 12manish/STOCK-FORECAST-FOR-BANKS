@@ -1,5 +1,6 @@
 # STOCK-FORECAST-FOR-BANKS
-### Project Aim: Here we aimed to forecast the stock price of all banks by using time series analysis on given data set. In given data set 5711 observations and 12 variables has given to us. We have provided 4 companies stock prices. In stock price an open, high, low and close, volume chart (also OHLC) is type of stock value that typically used for illustrate movements in the price of financial tool over time periods. By using different time series model we forecast the stock price for all banks. Before start the time series analysis, we have to know about stock. So in below we can see the stock trends behaviors:
+### Project Aim:
+Here we aimed to forecast the stock price of all banks by using time series analysis on given data set. In given data set 5711 observations and 12 variables has given to us. We have provided 4 companies stock prices. In stock price an open, high, low and close, volume chart (also OHLC) is type of stock value that typically used for illustrate movements in the price of financial tool over time periods. By using different time series model we forecast the stock price for all banks. Before start the time series analysis, we have to know about stock. So in below we can see the stock trends behaviors:
 In stock:
 •	Open value- price when stock opened day
 •	High value- High price of the stock on day
